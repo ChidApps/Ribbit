@@ -7,6 +7,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="action_logout">Logout</string>
+    <string name="action_camera">Camera</string>
     <string name="title_activity_login">Login</string>
     <string name="username_hint">Username</string>
     <string name="password_hint">Password</string>
@@ -26,5 +27,14 @@
     <string name="empty_friends">Add some friends to begin!</string>
     <string name="action_edit_friends">Edit Friends</string>
     <string name="title_activity_edit_friends">Edit Friends</string>
+    <string name="error_external_storage">There was an error accessing you external storage device.</string>
+    <string name="general_error">Sorry! There was an error.</string>
+    <string name="video_warning">The selected video must be less than 10MB</string>
+    <string-array name="camera_options">
+        <item>Take a picture</item>
+        <item>Record a video</item>
+        <item>Send an existing picture</item>
+        <item>Send an existing video</item>
+    </string-array>
 
 </resources>

@@ -9,10 +9,17 @@
         android:showAsAction="never" />
     -->
 
+    <item android:id="@+id/action_edit_friends"
+        android:title="@string/action_edit_friends"/>
+
     <item android:id="@+id/action_logout"
         android:title="@string/action_logout"/>
 
-    <item android:id="@+id/action_edit_friends"
-        android:title="@string/action_edit_friends"/>
+    <item android:id="@+id/action_camera"
+        android:title="@string/action_camera"
+        android:icon="@drawable/ic_action_camera"
+        android:showAsAction="always" />
+
+
 
 </menu>
