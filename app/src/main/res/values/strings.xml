@@ -24,5 +24,7 @@
     <string name="reset_password_error">Make sure you enter an email address.</string>
     <string name="empty_inbox">No new messages.</string>
     <string name="empty_friends">Add some friends to begin!</string>
+    <string name="action_edit_friends">Edit Friends</string>
+    <string name="title_activity_edit_friends">Edit Friends</string>
 
 </resources>
