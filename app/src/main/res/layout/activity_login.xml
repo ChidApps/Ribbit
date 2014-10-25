@@ -41,10 +41,9 @@
         android:layout_height="wrap_content"
         android:text="@string/signup_text"
         android:id="@+id/signupTextView"
-        android:layout_below="@+id/forgotPasswordButton"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"
-        android:textSize="20dp" />
+        android:textSize="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="match_parent"
